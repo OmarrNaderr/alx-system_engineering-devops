@@ -1,1 +1,1 @@
-READme for projecct
+readme file for project
