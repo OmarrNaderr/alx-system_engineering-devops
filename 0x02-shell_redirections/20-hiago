@@ -1,3 +1,2 @@
-
 #!/bin/bash
-tr -d "c\|C"
+grep -i "c" | tr -d
